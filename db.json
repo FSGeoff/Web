@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kiki",
+      "age": 31
+    },
+    {
+      "name": "Kiara",
+      "age": 30,
+      "id": 2
+    },
+    {
+      "name": "Iniko",
+      "age": 8,
+      "id": 3
+    },
+    {
+      "name": "Iniko",
+      "age": 8,
+      "id": 4
+    },
+    {
+      "name": "Iniko",
+      "age": 8,
+      "id": 5
+    },
+    {
+      "name": "Iniko",
+      "age": 8,
+      "id": 6
+    }
+  ]
+}
